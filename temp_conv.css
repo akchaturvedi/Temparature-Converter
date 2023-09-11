@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "mulish",sans-serif;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #f8e7af;
+    display: grid;
+    place-items: center;
+}
+
+
+#tempCalc{
+    height: 250px;
+    width: 550px;
+    background-color:darkslategray;
+    color:  white;
+    font-size: 1.5rem;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+#temp{
+    height:35px;
+    margin-top: 20px;
+    
+
+}
+#temp_diff{
+    height:35px;
+    background-color:rgba(34, 0, 128, 0.144);
+}
+
+.smt{
+    height: 27px;
+    width: 60px;
+    margin-top: 40px;
+    
+}
+
+
